@@ -1,4 +1,4 @@
-## Guitar Types 🎸
+## Guitar Types :guitar:
 
     Simple guitar types website, using only Html, Css
     and JavaScript in your construction. 
