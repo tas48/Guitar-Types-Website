@@ -10,7 +10,7 @@
 You can acess the site clicking [***here***]() and there you'll see it's evolution.
 
 
-## Prototype of the project's Home-page 
+## Prototype of the project's main-page 
 
 <p align="center">
   <img 
